@@ -27,6 +27,7 @@ Validate crontab:
 $ crontab -l
 ```
 **Otherwise, you could search for cron jobs in your web admin.**
+
 If your web admin does not support cron jobs, you could try:
 * https://www.webcron.org
 * https://www.easycron.com
@@ -34,6 +35,3 @@ If your web admin does not support cron jobs, you could try:
 
 ## Authors
 * **Székely Milán** - *Initial work* - [MakroBox](https://github.com/MakroBox)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
