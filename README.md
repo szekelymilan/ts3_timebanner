@@ -33,5 +33,5 @@ If your web admin does not support cron jobs, you could try:
 * https://www.easycron.com
 * https://cron-job.org
 
-## Authors
-* **Székely Milán** - *Initial work* - [MakroBox](https://github.com/MakroBox)
+## Author(s)
+* **Milan Szekely** - *Initial work* - [MakroBox](https://github.com/MakroBox)
