@@ -34,4 +34,4 @@ If your web admin does not support cron jobs, you could try:
 * https://cron-job.org
 
 ## Author(s)
-* **Milan Szekely** - *Initial work* - [MakroBox](https://github.com/MakroBox)
+* **Milan Szekely** - *Initial work* - [szekelymilan](https://github.com/szekelymilan)
